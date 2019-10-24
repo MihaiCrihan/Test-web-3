@@ -1,0 +1,14 @@
+{
+    "name": "mihai/composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mihai",
+            "email": "mihai.crihan.98@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
